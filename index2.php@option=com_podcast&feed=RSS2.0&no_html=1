@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Radio International Podcast</title>
+        <link>http://www.radiointernational.tv</link>
+        <description>This weekly radio show is geared for the fans of the Eurovision Song Contest, broadcast from Katwijk in the Netherlands. It is a fast moving, entertaining three hour radio programme offering up-to-date information and entertainment about the Eurovision Song Contest all year round. The show contains interviews with past and present Eurovision performers, News about the Eurovision Song Contest, the Eurovision Quiz, Expert opinions and of course the Listeners' Choices as well.</description>
+        <itunes:category text="Music" />
+        <lastBuildDate>Thu, 17 Jun 2021 21:59:41 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2</generator>
+        <copyright>(c) 2015 Radio International</copyright>
+        <itunes:author>eurovisionradiointernational@gmail.com</itunes:author>
+        <itunes:owner>
+                <itunes:name>Radio International</itunes:name>
+                <itunes:email>eurovisionradiointernational@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://www.radiointernational.tv/templates/radio_international/images/RI-logo.jpg" />        <image>
+                <link>http://www.radiointernational.tv</link>
+                <url>http://www.radiointernational.tv/templates/radio_international/images/RI-logo.jpg</url>
+                <title>Radio International Podcast</title>
+                <description>
+This weekly radio show is geared for the fans of the Eurovision Song Contest, broadcast from Katwijk in the Netherlands. It is a fast moving, entertaining three hour radio programme offering up-to-date information and entertainment about the Eurovision Song Contest all year round. The show contains interviews with past and present Eurovision performers, News about the Eurovision Song Contest, the Eurovision Quiz, Expert opinions and of course the Listeners' Choices as well.
+</description>
+        </image>
+        <itunes:keywords>Radio International, JP, Eurovision, ESC, Eurovision Song Contest, Radio, RTV Katwijk, Netherlands,  Eurovisie</itunes:keywords>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-31-1.mp3" length="" type="" />
+            <title>Eurovision Radio International from 31 Jan 2018 (Hour 1) </title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5189&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 31 Jan 2018 (Hour 1)
+</description>
+            <pubDate>Thu, 01 Feb 2018 07:00:00 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 31 Jan 2018 (Hour 1)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-31-2.mp3" length="" type="" />
+            <title>Eurovision Radio International from 31 Jan 2018 (Hour 2) </title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5190&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 31 Jan 2018 (Hour 2)
+</description>
+            <pubDate>Thu, 01 Feb 2018 07:00:00 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 31 Jan 2018 (Hour 2)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-31-3.mp3" length="" type="" />
+            <title>Eurovision Radio International from 31 Jan 2018 (Hour 3) </title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5191&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 31 Jan 2018 (Hour 3)
+</description>
+            <pubDate>Thu, 01 Feb 2018 07:00:00 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 31 Jan 2018 (Hour 3)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-31.mp3" length="" type="" />
+            <title>Eurovision Radio International from 31 Jan 2018 - Malta Eurovision Song Contest 2018</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5193&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 31 Jan 2018 - Malta Eurovision Song Contest 2018
+</description>
+            <pubDate>Thu, 01 Feb 2018 07:00:00 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 31 Jan 2018 - Malta Eurovision Song Contest 2018
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-24.mp3" length="" type="" />
+            <title>Eurovision Radio International from 24 Jan 2018</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5192&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 24 Jan 2018
+</description>
+            <pubDate>Thu, 25 Jan 2018 19:01:56 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 24 Jan 2018
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-17-2.mp3" length="" type="" />
+            <title>Eurovision Radio International from 17 Jan 2018 (Hour 2)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5178&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 17 Jan 2018 (Hour 2)
+</description>
+            <pubDate>Thu, 18 Jan 2018 00:01:52 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 17 Jan 2018 (Hour 2)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ffm-escsc18-01-14.mp3" length="" type="" />
+            <title>The Eurovision Show Case on Forest FM from 14 Jan 2018</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5176&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>The Eurovision Show Case on Forest FM from 14 Jan 2018
+</description>
+            <pubDate>Thu, 18 Jan 2018 00:01:47 +0100</pubDate>
+            <itunes:summary>The Eurovision Show Case on Forest FM from 14 Jan 2018
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-17-1.mp3" length="" type="" />
+            <title>Eurovision Radio International from 17 Jan 2018 (Hour 1)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5177&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 17 Jan 2018 (Hour 1)
+</description>
+            <pubDate>Thu, 18 Jan 2018 00:01:30 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 17 Jan 2018 (Hour 1)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-17-3.mp3" length="" type="" />
+            <title>Eurovision Radio International from 17 Jan 2018 (Hour 3)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5179&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 17 Jan 2018 (Hour 3)
+</description>
+            <pubDate>Thu, 18 Jan 2018 00:01:19 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 17 Jan 2018 (Hour 3)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/mer18-01-12.mp3" length="" type="" />
+            <title>Malta's Eurovisio Radio from 12 Jan 2018</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5175&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Malta's Eurovisio Radio from 12 Jan 2018
+</description>
+            <pubDate>Thu, 18 Jan 2018 00:01:17 +0100</pubDate>
+            <itunes:summary>Malta's Eurovisio Radio from 12 Jan 2018
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ffm-escsc18-01-07.mp3" length="" type="" />
+            <title>The Eurovision Show Case from 07 Jan 2017</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5171&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>The Eurovision Show Case from 07 Jan 2017
+</description>
+            <pubDate>Thu, 11 Jan 2018 00:01:44 +0100</pubDate>
+            <itunes:summary>The Eurovision Show Case from 07 Jan 2017
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-10-3.mp3" length="" type="" />
+            <title>Eurovision Radio International from 10 Jan 2018 (Hour 3)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5169&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 10 Jan 2018 (Hour 3)
+</description>
+            <pubDate>Thu, 11 Jan 2018 00:01:29 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 10 Jan 2018 (Hour 3)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-10-1.mp3" length="" type="" />
+            <title>Eurovision Radio International from 10 Jan 2018 (Hour 1)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5167&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 10 Jan 2018 (Hour 1)
+</description>
+            <pubDate>Thu, 11 Jan 2018 00:01:28 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 10 Jan 2018 (Hour 1)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/mer18-01-05.mp3" length="" type="" />
+            <title>Malta's Eurovision Radio from 05 Jan 2018</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5170&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Malta's Eurovision Radio from 05 Jan 2018
+</description>
+            <pubDate>Thu, 11 Jan 2018 00:01:05 +0100</pubDate>
+            <itunes:summary>Malta's Eurovision Radio from 05 Jan 2018
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-10-2.mp3" length="" type="" />
+            <title>Eurovision Radio International from 10 Jan 2018 (Hour 2)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5168&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 10 Jan 2018 (Hour 2)
+</description>
+            <pubDate>Thu, 11 Jan 2018 00:01:00 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 10 Jan 2018 (Hour 2)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ffm-escsc17-12-31.mp3" length="" type="" />
+            <title>}The Eurovision Show Case on Forest FM from 31 Dec 2017</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5164&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>The Eurovision Show Case on Forest FM from 31 Dec 2017
+</description>
+            <pubDate>Thu, 04 Jan 2018 18:01:12 +0100</pubDate>
+            <itunes:summary>The Eurovision Show Case on Forest FM from 31 Dec 2017
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/mer17-12-29.mp3" length="" type="" />
+            <title>Malta's Eurovision Radio from 29 Dec 2017</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5165&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Malta's Eurovision Radio from 29 Dec 2017
+</description>
+            <pubDate>Thu, 04 Jan 2018 18:01:00 +0100</pubDate>
+            <itunes:summary>Malta's Eurovision Radio from 29 Dec 2017
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-03-1.mp3" length="" type="" />
+            <title>Eurovision Radio International from 03 Jan 2018 (Hour 1)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5161&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 03 Jan 2018 (Hour 1)
+</description>
+            <pubDate>Wed, 03 Jan 2018 23:01:58 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 03 Jan 2018 (Hour 1)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-03-3.mp3" length="" type="" />
+            <title>Eurovision Radio International from 03 Jan 2018 (Hour 3)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5163&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 03 Jan 2018 (Hour 3)
+</description>
+            <pubDate>Wed, 03 Jan 2018 23:01:42 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 03 Jan 2018 (Hour 3)
+</itunes:summary>
+        </item>
+        <item>
+            <enclosure url="http://www.radiointernational.tv/images/showarchive/ri18-01-03-2.mp3" length="" type="" />
+            <title>Eurovision Radio International from 03 Jan 2018 (Hour 2)</title>
+            <link>http://www.radiointernational.tv/index.php?option=com_content&amp;task=view&amp;id=5162&amp;Itemid=</link>
+            <author>eurovisionradiointernational@gmail.com</author>
+            <description>Eurovision Radio International from 03 Jan 2018 (Hour 2)
+</description>
+            <pubDate>Wed, 03 Jan 2018 23:01:20 +0100</pubDate>
+            <itunes:summary>Eurovision Radio International from 03 Jan 2018 (Hour 2)
+</itunes:summary>
+        </item>
+    </channel>
+</rss>
